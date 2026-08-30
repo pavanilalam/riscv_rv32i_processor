@@ -16,6 +16,8 @@ A fully functional, single-cycle RISC-V **RV32I** processor implemented in Veril
 
 This is a **single-cycle** implementation of the RV32I base integer instruction set. One instruction completes every clock cycle.
 
+---
+
 ### Supported Instructions
 | Category | Instructions |
 |----------|--------------|
@@ -26,6 +28,8 @@ This is a **single-cycle** implementation of the RV32I base integer instruction 
 | Branches | BEQ, BNE, BLT, BGE, BLTU, BGEU |
 | Jumps    | JAL, JALR |
 | Upper Immediate | LUI, AUIPC |
+
+---
 
 ### Datapath Block Diagram
 +---------+
