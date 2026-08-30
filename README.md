@@ -62,7 +62,6 @@ This is a **single-cycle** implementation of the RV32I base integer instruction 
 |
 branch/jump target calc --> pc_next
 
-Code
 
 ---
 
@@ -133,8 +132,6 @@ riscv_rv32i_processor/
 └── sim/
 ├── program.asm
 └── program.hex
-
-Code
 
 ---
 
